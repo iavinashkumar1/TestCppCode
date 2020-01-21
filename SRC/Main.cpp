@@ -18,5 +18,10 @@ int main()
     std::cout << "This is a test 5" << std::endl;
     std::cout << "Please press any key to exit" << std::endl;
     std::cin >> x;
+    std::cout << "This is a test 1___" << std::endl;
+    std::cout << "This is a test 2___" << std::endl;
+    std::cout << "This is a test 3__" << std::endl;
+    std::cout << "This is a test 4___" << std::endl;    
+    
     return 0;
 }
