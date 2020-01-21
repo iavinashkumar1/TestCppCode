@@ -1,0 +1,19 @@
+#include <iostream>
+//#include "common.h"
+
+#define VS15_VER    "14.0"
+#define VS15_DIR    "C:\Program Files (x86)\Microsoft Visual Studio 14.0"
+
+
+
+int main()
+{
+    std::cout << "This is a test 1" << std::endl;
+    std::cout << "This is a test 2" << std::endl;
+    std::cout << "This is a test 3" << std::endl;
+    std::cout << "This is a test 4" << std::endl;
+    std::cout << VS15_VER << std::endl;
+    std::cout << VS15_DIR << std::endl;
+    std::cout << "This is a test 5" << std::endl; 
+    return 0;
+}

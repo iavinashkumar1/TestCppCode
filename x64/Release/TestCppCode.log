@@ -1,0 +1,8 @@
+﻿  Main.cpp
+SRC\Main.cpp(16): warning C4129: 'P': unrecognized character escape sequence
+SRC\Main.cpp(16): warning C4129: 'M': unrecognized character escape sequence
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestCppCode.vcxproj -> C:\Documents\Rally\TestVSCode\TestCppCode\x64\Release\TestCppCode.exe
+  TestCppCode.vcxproj -> C:\Documents\Rally\TestVSCode\TestCppCode\x64\Release\TestCppCode.pdb (Full PDB)
