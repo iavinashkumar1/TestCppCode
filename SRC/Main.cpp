@@ -8,12 +8,15 @@
 
 int main()
 {
+    int x;
     std::cout << "This is a test 1" << std::endl;
     std::cout << "This is a test 2" << std::endl;
     std::cout << "This is a test 3" << std::endl;
     std::cout << "This is a test 4" << std::endl;
     std::cout << VS15_VER << std::endl;
     std::cout << VS15_DIR << std::endl;
-    std::cout << "This is a test 5" << std::endl; 
+    std::cout << "This is a test 5" << std::endl;
+    std::cout << "Please press any key to exit" << std::endl;
+    std::cin >> x;
     return 0;
 }
